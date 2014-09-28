@@ -1,5 +1,4 @@
 Presentation Ideas
-========
 
 Should we start with some problems?
 - http://www.today.com/news/jeff-rossen-social-experiment-will-people-help-lost-child-1D80112770 (lost 11 year old kid)
@@ -23,3 +22,12 @@ talk about how this could become a community of makers
 - add in projects that will make the devices more usable
 - next step will be to build the whole site from the ground up
 - November launch?
+
+
+
+ALTERNATIVE
+
+show the projects in the bags, we made "this, and this, and this, and this"
+Phrase it in a way so that it inspires creativity for people to make more things for their bag
+Show them the site and say that we are creating a repository where anyone can become a maker
+Individualized "internet of things"
