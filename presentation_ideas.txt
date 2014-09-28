@@ -1,0 +1,25 @@
+Presentation Ideas
+========
+
+Should we start with some problems?
+- http://www.today.com/news/jeff-rossen-social-experiment-will-people-help-lost-child-1D80112770 (lost 11 year old kid)
+- can't find someone while hiking
+- traveling and afraid of someone stealing from out of your bag
+- bad posture from holding a heavy bag
+
+What if there was a repository of projects that you could build to solve for these problems
+Stop waiting for someone else to solve your most pressing problems
+
+Maker Bags...
+
+demo the website (don't highlight our "created" bags, show that anyone will be able to add their own projects for others to view
+
+demo the three devices - beacon tracker, make sound/send text, update LCD screen
+
+talk about how this could become a community of makers
+- we have started to create starter bags - projects for people to learn from
+- show the different styles of bags
+- talk about how we will continue to build projects with ways of connecting projects together
+- add in projects that will make the devices more usable
+- next step will be to build the whole site from the ground up
+- November launch?
