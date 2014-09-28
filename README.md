@@ -1,4 +1,4 @@
-MakrBags
+MakerBags
 ========
 A repository of projects to enhance any bag you own whether it is a backpack, purse, or grocery bag.
 
@@ -28,10 +28,20 @@ Grocery/Forgetful Bag
 ========
 - display reminders to buy "milk, eggs" with LCD screen
 - LED lights that change colors based on proximity to important dates (anniversary, birthdays)
+- reminder to refill waterbottle when owner is home
 
 Vacation Bag
 ========
 - pair up your bag with other travelers on the trip
-- sound an alert if any pockets are open while on bag
+- sound an alert if any pockets are open while on back
 - sound alert if anyone tries to unzip your bag while on back
 - notify you if there is a great tourist site nearby
+- sound alarm if someone moves bag without identifying (touch ID?)
+
+
+Other Projects
+=======
+- LED light for when internal battery is low
+- build your own internal bag wifi
+- sewing project to safely store arduino/raspberry pi
+- posture checker?
