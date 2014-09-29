@@ -17,8 +17,8 @@ beacon tracker app
 - show the backpack
 
 how will Crystal tell her parents where she is?
-left shoulder - gps location to mom
-right shoulder - buzzer to alert those 
+right shoulder - gps location to mom
+left shoulder - buzzer to alert those 
 around her if she is scared
 powered using twilio, a myfi, and a battery pack 
 so that she is fully portable and even able 
