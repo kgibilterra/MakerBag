@@ -1,3 +1,21 @@
+amusement park story - lost from their parents
+
+
+This inspired Wanderful bag. We've created 3 hardware demos to display
+- show the phone
+- show the LCD screen
+- show the backpack
+
+These are some of the things that we are exicted to build for if we ever have kids. But while we were building,
+we started talking about how this situation could apply to many types of bags and users. So with that in mind, we have
+started creating a Maker Bag space. On here contributers from everywhere can come and find ways to add individualized
+"internet of things" projects and build bags that fit their unique needs.
+
+
+
+
+
+
 Presentation Ideas
 
 Should we start with some problems?
