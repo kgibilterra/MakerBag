@@ -2,34 +2,41 @@ Hershey Park - lots of lost kids
 one solution is to strap your kid to a leash
 today we have created the alternative to that leash
 
-We created this solution only using the technologies that came in our kits.
-Why? Because only one person on our team had any previous experience with hardware
+We created this solution only using the 
+technologies that came in our kits.
+Why? Because only one person on our team 
+had any previous experience with hardware
 
-Despite that, in the past day we have created 3 demos that will connect parents to their children without 
-the kid having a phone and only needing a wifi network
+Despite that, in the past day we have created 
+3 demos that will connect parents to their children 
+without the kid having a phone and only 
+needing a wifi network
 
 
-This inspired Wanderful bag. We've created 3 hardware demos to display
+This inspired Wanderful bag. 
+We've created 3 hardware demos to display
 - show the phone
 - show the LCD screen
 - show the backpack
 
 left shoulder - gps location to mom
-right shoulder - buzzer to alert those around her if she is scared
-powered using twilio, a myfi, and a battery pack so that she is fully portable and even able to find her parent
-during a zombie apocalypse
+right shoulder - buzzer to alert those 
+around her if she is scared
+powered using twilio, a myfi, and a battery pack 
+so that she is fully portable and even able 
+to find her parent during a zombie apocalypse
 
-And we have one more thing! as we built, we realized how fun and powerful it would be for everyone to be able to make
+And we have one more thing! as we built, 
+we realized how fun and powerful it would 
+be for everyone to be able to make
 projects like these on their own
-So we have built the maker bag site where everyone will be able to open source their awesome bag creations whether it is
-a backpack, purse, briefcase, or sportsbag. We are excited to keep building on this and see what awesome bags we will
+So we have built the maker bag site where 
+everyone will be able to open source their 
+awesome bag creations whether it is
+a backpack, purse, briefcase, or sportsbag. 
+We are excited to keep building on this and 
+see what awesome bags we will
 all be able to make in the future!
-
-
-These are some of the things that we are exicted to build for if we ever have kids. But while we were building,
-we started talking about how this situation could apply to many types of bags and users. So with that in mind, we have
-started creating a Maker Bag space. On here contributers from everywhere can come and find ways to add individualized
-"internet of things" projects and build bags that fit their unique needs.
 
 
 
